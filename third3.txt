@@ -1,1 +1,1 @@
-through this i've learned how to insert , add , commit , push 
+through this i've learned how to insert , add , commit , push and pull method
